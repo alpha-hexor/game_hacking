@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"No description"</Description>
+      <LastState Value="96" RealAddress="202BE0D4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gamex86.dll+2BE0D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"grande"</Description>
+      <LastState Value="96" RealAddress="202BE0D4"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"gamex86.dll"+000A54A0</Address>
+      <Offsets>
+        <Offset>6D4</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

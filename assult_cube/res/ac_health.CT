@@ -4,117 +4,92 @@
     <CheatEntry>
       <ID>0</ID>
       <Description>"No description"</Description>
-      <LastState Value="19" RealAddress="0111A178"/>
+      <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>0111A178</Address>
+      <Address>011EA1BC</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>1</ID>
       <Description>"No description"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <LastState Value="1057554432" RealAddress="02A0A1BC"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>02BBA178</Address>
+      <Address>02A0A1BC</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>2</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <Description>"No description"</Description>
+      <LastState Value="995" RealAddress="00F0A1BC"/>
+      <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ac_client.exe"+0011E20C</Address>
-      <Offsets>
-        <Offset>F8</Offset>
-      </Offsets>
+      <Address>00F0A1BC</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>3</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <LastState Value="995" RealAddress="00F0A1BC"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"ac_client.exe"+0010A280</Address>
       <Offsets>
-        <Offset>338</Offset>
-        <Offset>34</Offset>
-        <Offset>98</Offset>
-        <Offset>8</Offset>
+        <Offset>29C</Offset>
+        <Offset>6C</Offset>
+        <Offset>A4</Offset>
+        <Offset>5A8</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>4</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <LastState Value="995" RealAddress="00F0A1BC"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"ac_client.exe"+0010A280</Address>
       <Offsets>
-        <Offset>3E0</Offset>
-        <Offset>34</Offset>
-        <Offset>34</Offset>
-        <Offset>A0</Offset>
+        <Offset>1F4</Offset>
+        <Offset>6C</Offset>
+        <Offset>6C</Offset>
+        <Offset>728</Offset>
         <Offset>8</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>5</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <LastState Value="995" RealAddress="00F0A1BC"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>"ac_client.exe"+0010A280</Address>
+      <Address>"ac_client.exe"+0012CB90</Address>
       <Offsets>
-        <Offset>300</Offset>
-        <Offset>6C</Offset>
-        <Offset>70</Offset>
-        <Offset>214</Offset>
-        <Offset>8</Offset>
+        <Offset>1BC</Offset>
+        <Offset>A4</Offset>
+        <Offset>56C</Offset>
+        <Offset>810</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>6</ID>
       <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <LastState Value="995" RealAddress="00F0A1BC"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"ac_client.exe"+0010A280</Address>
       <Offsets>
-        <Offset>418</Offset>
-        <Offset>E4</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>7</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"ac_client.exe"+0010A280</Address>
-      <Offsets>
-        <Offset>370</Offset>
-        <Offset>1C0</Offset>
+        <Offset>4CC</Offset>
+        <Offset>A4</Offset>
+        <Offset>34</Offset>
+        <Offset>790</Offset>
         <Offset>8</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>8</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
+      <ID>7</ID>
+      <Description>"working_module"</Description>
+      <LastState Value="995" RealAddress="00F0A1BC"/>
+      <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"ac_client.exe"+0010A280</Address>
       <Offsets>
-        <Offset>258</Offset>
+        <Offset>4CC</Offset>
         <Offset>A4</Offset>
-        <Offset>38</Offset>
-        <Offset>A4</Offset>
-        <Offset>1B4</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>9</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="12" RealAddress="02BBA178"/>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"ac_client.exe"+0010A280</Address>
-      <Offsets>
-        <Offset>140</Offset>
-        <Offset>A4</Offset>
-        <Offset>38</Offset>
-        <Offset>C0</Offset>
+        <Offset>34</Offset>
+        <Offset>790</Offset>
         <Offset>8</Offset>
       </Offsets>
     </CheatEntry>

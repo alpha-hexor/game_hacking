@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"m1a1"</Description>
+      <LastState Value="15" RealAddress="202BE0A0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"gamex86.dll"+000A54A0</Address>
+      <Offsets>
+        <Offset>6A0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"sniper_ammo"</Description>
+      <LastState Value="0" RealAddress="202BE0C8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"gamex86.dll"+000A54A0</Address>
+      <Offsets>
+        <Offset>6C8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"thompson"</Description>
+      <LastState Value="30" RealAddress="202BE0D8"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"gamex86.dll"+000A54A0</Address>
+      <Offsets>
+        <Offset>6D8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"health"</Description>
+      <LastState Value="600" RealAddress="2012FC58"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>gamex86.dll+12FC58</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"health"</Description>
+      <LastState Value="600" RealAddress="2012FC58"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"gamex86.dll"+0005C8E4</Address>
+      <Offsets>
+        <Offset>2F0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
